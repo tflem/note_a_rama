@@ -1,24 +1,43 @@
-# README
+![Note-A-Rama workflow](https://github.com/tflem/notearama/actions/workflows/notearama.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d4a02ea42439340f3dfa/maintainability)](https://codeclimate.com/github/tflem/note_a_rama/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d4a02ea42439340f3dfa/test_coverage)](https://codeclimate.com/github/tflem/note_a_rama/test_coverage)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Note-A-Rama
 
-Things you may want to cover:
+> This is just a simple note-taking application, featuring Turbo. I'm using the following tools:
 
-* Ruby version
+- Ruby on Rails 7.0.2.2
+- Ruby 3.1.1
+- HTML5 and Sass
+- PostgreSQL (Tested for 13.x)
+- Testing: Minitest
+- Code Bundler: esbuild
+- Continuous Integration/Deployment: Github Actions/Heroku
 
-* System dependencies
+## Setup
 
-* Configuration
+How to run tests:
 
-* Database creation
+```
+% rails test or rails t for short
+```
 
-* Database initialization
+How to run the development console:
 
-* How to run the test suite
+```
+% rails console or rails c for short
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+How to run the development server:
 
-* Deployment instructions
+```
+% rails server or rails s for short
+```
 
-* ...
+How to prepare (create and migrate) DB for `development` and `test` environments:
+
+```
+% rails db:create
+
+% rails db:migrate
+```
