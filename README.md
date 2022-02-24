@@ -1,4 +1,4 @@
-![Note-A-Rama workflow](https://github.com/tflem/notearama/actions/workflows/notearama.yml/badge.svg)
+![Notearama workflow](https://github.com/tflem/notearama/actions/workflows/notearama.yml/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/d4a02ea42439340f3dfa/maintainability)](https://codeclimate.com/github/tflem/note_a_rama/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/d4a02ea42439340f3dfa/test_coverage)](https://codeclimate.com/github/tflem/note_a_rama/test_coverage)
 
