@@ -1,0 +1,9 @@
+<main class="container">
+  <%= link_to sanitize("&larr; Back to Note"), note_path(@note) %>
+
+  <div class="header">
+    <h2>Edit Notes</h2>
+  </div>
+
+  <%= render "form", note: @note %>
+</main>
