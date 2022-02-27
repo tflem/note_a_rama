@@ -4,7 +4,7 @@
 
 # Note-A-Rama
 
-> This is just a simple note-taking application, featuring Turbo. I'm using the following tools:
+> This is just a simple note-taking application, featuring Turbo as well as:
 
 - Ruby on Rails 7.0.2.2
 - Ruby 3.1.1
