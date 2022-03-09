@@ -4,7 +4,7 @@ require "simplecov_json_formatter"
 SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
 
 SimpleCov.start do
-  add_filter "test"
+  add_filter "/test/"
 end
 
 ENV['RAILS_ENV'] ||= 'test'
