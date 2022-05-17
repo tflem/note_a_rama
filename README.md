@@ -6,12 +6,12 @@
 
 > This is just a simple note-taking application, featuring Turbo as well as:
 
-- Ruby on Rails 7.0.2.4
+- Ruby on Rails 7.0.3
 - Ruby 3.1.2
 - HTML5 and Sass 1.51.0
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest
-- Code Bundler: esbuild 0.14.38
+- Code Bundler: esbuild 0.14.39
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup
