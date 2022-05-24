@@ -4,11 +4,11 @@
 
 # Note-A-Rama
 
-> This is just a simple note-taking application, featuring Turbo as well as:
+> This is just a simple note-taking application, featuring Hotwire as well as:
 
 - Ruby on Rails 7.0.3
 - Ruby 3.1.2
-- HTML5 and Sass 1.51.0
+- HTML5 and Sass 1.52.1
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest
 - Code Bundler: esbuild 0.14.39
