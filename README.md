@@ -8,10 +8,10 @@
 
 - Ruby on Rails 7.0.3
 - Ruby 3.1.2
-- HTML5 and Sass 1.52.1
+- HTML5 and Sass 1.52.2
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest
-- Code Bundler: esbuild 0.14.42
+- Code Bundler: esbuild 0.14.43
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup
