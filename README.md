@@ -6,6 +6,7 @@
 
 > This is just a simple note-taking application, featuring Hotwire as well as:
 
+- Hotwired/Turbo Rails 7.2.0
 - Ruby on Rails 7.0.4
 - Ruby 3.1.2
 - HTML5 and Sass 1.55.0
