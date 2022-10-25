@@ -20,8 +20,13 @@
 
   &--primary {
     color: var(--color-white);
-    background-image: linear-gradient(to right, var(--color-primary), 
-                      var(--color-primary-rotate));
+    margin-top: var(--space-xxs);
+    margin-left: var(--space-xxs);
+    background-image: linear-gradient(
+      to right,
+      var(--color-primary),
+      var(--color-primary-rotate)
+    );
 
     &:hover,
     &:focus,
@@ -34,8 +39,11 @@
 
   &--secondary {
     color: var(--color-white);
-    background-image: linear-gradient(to right, var(--color-secondary),
-                      var(--color-secondary-rotate));
+    background-image: linear-gradient(
+      to right,
+      var(--color-secondary),
+      var(--color-secondary-rotate)
+    );
 
     &:hover,
     &:focus,

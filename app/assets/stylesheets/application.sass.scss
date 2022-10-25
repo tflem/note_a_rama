@@ -8,7 +8,6 @@
 @import "config/reset";
 
 // Components
-@import "components/welcome";
 @import "components/btn";
 @import "components/error_message";
 @import "components/form";
@@ -19,3 +18,4 @@
 // Layouts
 @import "layouts/container";
 @import "layouts/header";
+@import "layouts/welcome";
