@@ -9,10 +9,10 @@
 - Hotwired/Turbo Rails 7.2.4
 - Ruby on Rails 7.0.4
 - Ruby 3.1.2
-- HTML5 and Sass 1.56.0
+- HTML5 and Sass 1.56.1
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest 5.16.3
-- Code Bundler: esbuild 0.15.13
+- Code Bundler: esbuild 0.15.14
 - Continuous Integration/Deployment: Github Actions/Heroku
 
 ## Setup
