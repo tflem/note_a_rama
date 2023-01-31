@@ -6,13 +6,13 @@
 
 > This is just a simple note-taking application, featuring Hotwire as well as:
 
-- Hotwired/Turbo Rails 7.2.4
-- Ruby on Rails 7.0.4.1
+- Hotwired/Turbo Rails 7.2.5
+- Ruby on Rails 7.0.4.2
 - Ruby 3.1.2
 - HTML5 and Sass 1.57.1
 - PostgreSQL (Tested for 14.x)
 - Testing: Minitest 5.17.0
-- Code Bundler: esbuild 0.17.4
+- Code Bundler: esbuild 0.17.5
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
 ## Setup
