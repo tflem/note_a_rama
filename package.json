@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@hotwired/stimulus": "^3.2.1",
-    "@hotwired/turbo": "^7.2.5",
-    "@hotwired/turbo-rails": "^7.2.5",
-    "esbuild": "^0.17.10",
+    "@hotwired/turbo": "^7.3.0",
+    "@hotwired/turbo-rails": "^7.3.0",
+    "esbuild": "^0.17.11",
     "sass": "^1.58.3"
   }
 }
