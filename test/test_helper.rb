@@ -1,5 +1,11 @@
 require "simplecov"
 require "simplecov_json_formatter"
+require "capybara/cuprite"
+
+Capybara.javascript_driver = :cuprite
+Capybara.register_driver(:cuprite) do |app|
+  Capybara::Cuprite::Driver.new(app, window_size: [1400, 1400])
+end
 
 SimpleCov.formatter = SimpleCov::Formatter::JSONFormatter
 
@@ -18,5 +24,5 @@ class ActiveSupport::TestCase
   # Setup all fixtures in test/fixtures/*.yml for all tests in alphabetical order.
   fixtures :all
 
-  # Add more helper methods to be used by all tests here...  
+  # Add more helper methods to be used by all tests here...
 end
