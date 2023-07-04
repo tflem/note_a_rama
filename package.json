@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=16.19.1"
+    "node": "18"
   },
   "name": "app",
   "private": "true",
@@ -12,7 +12,7 @@
     "@hotwired/stimulus": "^3.2.1",
     "@hotwired/turbo": "^7.3.0",
     "@hotwired/turbo-rails": "^7.3.0",
-    "esbuild": "^0.18.10",
+    "esbuild": "^0.18.11",
     "sass": "^1.63.6"
   }
 }
