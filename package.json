@@ -13,6 +13,6 @@
     "@hotwired/turbo": "^7.3.0",
     "@hotwired/turbo-rails": "^7.3.0",
     "esbuild": "^0.19.3",
-    "sass": "^1.67.0"
+    "sass": "^1.68.0"
   }
 }
