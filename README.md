@@ -4,7 +4,7 @@
 
 # Note-A-Rama
 
-> This is just a simple note-taking application, featuring Hotwire as well as:
+> A simple note-taking application, featuring Hotwire as well as:
 
 - Hotwired/Turbo Rails 7.3.0
 - Ruby on Rails 7.1.1
