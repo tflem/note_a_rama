@@ -12,7 +12,7 @@
     "@hotwired/stimulus": "^3.2.2",
     "@hotwired/turbo": "^8.0.0-beta.2",
     "@hotwired/turbo-rails": "^8.0.0-beta.2",
-    "esbuild": "^0.19.11",
-    "sass": "^1.69.7"
+    "esbuild": "^0.19.12",
+    "sass": "^1.70.0"
   }
 }
