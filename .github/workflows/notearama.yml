@@ -48,7 +48,7 @@ jobs:
           chmod +x ./cc-test-reporter
           ./cc-test-reporter before-build
       - name: Run Minitest
-        run: COVERAGE=true bundle exec rails test
+        run: COVERAGE=true bin/rails test:system
         env:
           RAILS_ENV: test
           POSTGRES_USER: postgres
