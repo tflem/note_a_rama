@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": "20"
-  },
   "name": "app",
   "private": "true",
   "scripts": {
