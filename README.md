@@ -9,9 +9,9 @@
 - Hotwired/Turbo Rails 8.0.12
 - Ruby on Rails 7.2.2
 - Ruby 3.3.2
-- HTML5 and Sass 1.81.0
+- HTML5 and Sass 1.82.0
 - PostgreSQL (Tested for 16.x)
-- Testing: Minitest 5.25.2
+- Testing: Minitest 5.25.4
 - Code Bundler: esbuild 0.24.0
 - Continuous Integration/Deployment: Github Actions/Digital Ocean
 
