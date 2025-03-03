@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     services:
       postgres:
-        image: postgres:16.2
+        image: postgres:17.2
         ports:
           - 5432:5432
         env:
@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: actions/setup-node@master
         with:
-          node-version: "20"
+          node-version: "22"
       - run: npm install -g yarn
       - run: yarn install
 
@@ -24,7 +24,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3.2
+          ruby-version: 3.4.1
 
       - name: Install dependent libraries
         run: sudo apt-get install libpq-dev
